@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "like amazon but not",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "get er done!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StrateUp/Bamazon.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StrateUp/Bamazon/issues"
+  },
+  "homepage": "https://github.com/StrateUp/Bamazon#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6",
+    "mysql": "^2.13.0"
+  }
+}
